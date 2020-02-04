@@ -1,6 +1,12 @@
-h1 {
+h1 { 
+   
+    font-size: 100px;
     color:blue;
-    font-size: 100px; 
-    text-align: center;
-
 }
+.heading {
+    text-align: center;
+}
+
+
+
+
